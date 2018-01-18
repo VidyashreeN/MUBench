@@ -244,3 +244,14 @@ table.fw {width:100%;}
     border: 0;
     outline: none;
 }
+
+.clickable-icon {
+    cursor:pointer;
+}
+
+.card-shadow {
+    border: 1px solid;
+    box-shadow: 5px 5px #888888;
+    width: 200px;
+    height: 150px;
+}
