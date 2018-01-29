@@ -244,3 +244,7 @@ table.fw {width:100%;}
     border: 0;
     outline: none;
 }
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
